@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "App PC Cleaner/1.0.0": {
+        "runtime": {
+          "App PC Cleaner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App PC Cleaner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

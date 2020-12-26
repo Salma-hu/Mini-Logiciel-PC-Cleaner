@@ -1,0 +1,18 @@
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\bin\Release\netcoreapp3.1\PC Cleaner V2.exe
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\bin\Release\netcoreapp3.1\PC Cleaner V2.deps.json
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\bin\Release\netcoreapp3.1\PC Cleaner V2.runtimeconfig.json
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\bin\Release\netcoreapp3.1\PC Cleaner V2.runtimeconfig.dev.json
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\bin\Release\netcoreapp3.1\PC Cleaner V2.dll
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\bin\Release\netcoreapp3.1\PC Cleaner V2.pdb
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2_MarkupCompile.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2_MarkupCompile.lref
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2.g.resources
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2.dll
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2.pdb
+C:\Users\Youcode\Desktop\App PC Cleaner\PC Cleaner V2\obj\Release\netcoreapp3.1\PC Cleaner V2.genruntimeconfig.cache

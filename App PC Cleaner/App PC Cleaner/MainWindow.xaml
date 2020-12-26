@@ -1,0 +1,87 @@
+﻿<Window x:Class="PC_Cleaner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PC_Cleaner"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="535" Width="879" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="379*"/>
+            <ColumnDefinition Width="213*"/>
+            <ColumnDefinition Width="227*"/>
+            <ColumnDefinition Width="42*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="0,-3,0,3" Grid.ColumnSpan="5">
+            <Border BorderThickness="1" BorderBrush="Black">
+                <Border BorderThickness="1" BorderBrush="#FF1E8CE5" Width="801" Margin="35,-4,0,4" HorizontalAlignment="Left" RenderTransformOrigin="0.563,0.597">
+                    <Border BorderThickness="1" BorderBrush="#FFC4C3D0" Margin="-41,-1,680,-4" Background="#FF1064AC">
+                        <Border BorderThickness="1" BorderBrush="Black" Margin="157,-1,-725,356" RenderTransformOrigin="0.5,0.5" Background="#FF1E8CE5">
+                            <Border.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform AngleX="-0.543"/>
+                                    <RotateTransform/>
+                                    <TranslateTransform X="-2.022"/>
+                                </TransformGroup>
+                            </Border.RenderTransform>
+                            <Label x:Name="lbl_analyse" Content="Analyse du PC nécessaire" Margin="76,17,313,71" FontSize="20" Foreground="#FFFCF7F7"/>
+                        </Border>
+                    </Border>
+                </Border>
+            </Border>
+        </Border>
+        <Button x:Name="btn_analyse2" Content="ANALYSER" Margin="1,201,224,271" Background="#FF1E77C7" Foreground="#FFFAFAFA" Visibility="Visible" FontSize="14" FontFamily="Segoe UI" Click="Button_Click_4"/>
+        <Button Content="HISTORIQUE" Margin="0,247,224,226" Background="#FF1E77C7" Foreground="#FFFAFAFA" Visibility="Visible" FontSize="14" FontFamily="Segoe UI"/>
+        <Button Content="OPTIONS" Margin="0,292,224,181" Background="#FF1E77C7" Foreground="#FFFAFAFA" Visibility="Visible" FontSize="14" FontFamily="Segoe UI"/>
+        <Button Content="SITE WEB" Margin="19,409,245,75" Background="#FF1E77C7" Foreground="#FFFAFAFA" Visibility="Visible" FontSize="14" FontFamily="Segoe UI" Click="Button_Click_3"/>
+        <Button x:Name="btn_analyse" Content="ANALYSER" Margin="85,56,17,415" Background="#FF1E8CE5" Foreground="#FFFAFAFA" Visibility="Visible" FontSize="14" FontFamily="Segoe UI" Click="Button_Click_4" BorderBrush="White" Grid.Column="2"/>
+        <ProgressBar x:Name="ProgressBar" Margin="301,169,126,0" Value="0" Minimum="0" Maximum="100"   ValueChanged="ProgressBar_ValueChanged" Foreground="#FF317AB6" FontWeight="Bold" BorderBrush="#FF317AB6" Grid.ColumnSpan="3" Height="20" VerticalAlignment="Top" Visibility="Hidden" />
+        <Border BorderThickness="1" BorderBrush="Black" Margin="157,400,1,0" RenderTransformOrigin="0.5,0.5" Background="#FFE6E6E6" Grid.ColumnSpan="5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.543"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-2.022"/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Border BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Left" Height="7" Margin="1,-15,0,0" VerticalAlignment="Top" Width="0"/>
+        <Button Content="VUE D'ENSEMBLE" Margin="1,157,224,315" Background="#FF1E77C7" Foreground="#FFFAFAFA" Visibility="Visible" FontSize="14" FontFamily="Segoe UI" Click="Button_Click_4"/>
+        <TextBlock TextWrapping="Wrap" FontFamily="Adobe Heiti Std R" FontSize="14" Foreground="#FF454444" Margin="245,428,14,15" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="3">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.225"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.576"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="PC-CLEANER est un logiciel made in Maroc qui respect votre vie priv"/><Run Language="fr-fr" Text="é"/><Run Text="e."/><LineBreak/><Run Text="C' est gratuit et ça le restera"/></TextBlock>
+        <TextBlock TextWrapping="Wrap" FontFamily="Akhbar MT" Foreground="#FFF0F0F0" Margin="17,486,284,10"><Run Language="fr-fr" Text="Version 1.0.0"/></TextBlock>
+        <Label x:Name="lbl_lastanalyse" Content="Dernière analyse  : " Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="34" Margin="239,83,0,0" VerticalAlignment="Top" Width="190" Foreground="#FFF0F0F0"/>
+        <Canvas HorizontalAlignment="Left" Margin="245,0,0,0" VerticalAlignment="Center">
+            <Grid>
+                <Rectangle Stroke="#FF1E8CE5" Fill="#FF1E8CE5" Margin="-7,-22,0,40"/>
+                <Button x:Name="btn_nttoyer" Content="NETTOYER" BorderBrush="#FF1E8CE5" Background="#FF1E8CE5" Foreground="White" Margin="22,67,35,70"/>
+            </Grid>
+        </Canvas>
+        <Canvas Grid.Column="1" HorizontalAlignment="Left" Margin="56,236,0,0" VerticalAlignment="Top">
+            <Rectangle Height="137" Stroke="#FF1E8CE5" Width="121" OpacityMask="#FF1E8CE5" Fill="#FF1E8CE5"/>
+            <Button x:Name="btn_historique" Content="HISTORIQUE" Height="23" Width="88" BorderBrush="#FF1E8CE5" Background="#FF1E8CE5" Foreground="#FFFCFCFC" Canvas.Left="20" Canvas.Top="90" Click="btn_historique_Click"/>
+
+        </Canvas>
+        <Canvas Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Rectangle Height="135" Stroke="#FF1E8CE5" Width="116" OpacityMask="#FF1E8CE5" Fill="#FF1E8CE5" Canvas.Left="55" Canvas.Top="237"/>
+            <Button x:Name="btn_historique1" Content="METTRE A JOUR" Height="35" Width="103" Foreground="White" BorderBrush="#FF1E8CE5" Background="#FF1E8CE5" Canvas.Left="62" Canvas.Top="322" Click="btn_historique1_Click"/>
+
+        </Canvas>
+        <Label x:Name="lbl_nettoyer" Content="Espace a nettoyer : " HorizontalAlignment="Left" Height="24" Margin="240,59,0,0" VerticalAlignment="Top" Width="122" RenderTransformOrigin="0.474,0.763" Foreground="White"/>
+        <Label x:Name="lbl_lastMsj" Content="Dernière MSJ      : 12/01/2020" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="32" Margin="239,108,0,0" VerticalAlignment="Top" Width="247" Foreground="White"/>
+        <Label x:Name="lbl_lastDate" Content="12/01/2020" HorizontalAlignment="Left" Height="35" Margin="342,85,0,0" VerticalAlignment="Top" Width="187" Foreground="#FFFAFAFA" Grid.ColumnSpan="2"/>
+        <Label x:Name="txt_analyse" Content="A déterminer par analyse" HorizontalAlignment="Left" Height="27" Margin="350,61,0,0" VerticalAlignment="Top" Width="179" Foreground="#FFF7F2F2" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

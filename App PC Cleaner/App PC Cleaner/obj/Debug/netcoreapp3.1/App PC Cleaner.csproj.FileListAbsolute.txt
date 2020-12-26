@@ -1,0 +1,19 @@
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\bin\Debug\netcoreapp3.1\App PC Cleaner.exe
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\bin\Debug\netcoreapp3.1\App PC Cleaner.deps.json
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\bin\Debug\netcoreapp3.1\App PC Cleaner.runtimeconfig.json
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\bin\Debug\netcoreapp3.1\App PC Cleaner.runtimeconfig.dev.json
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\bin\Debug\netcoreapp3.1\App PC Cleaner.dll
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\bin\Debug\netcoreapp3.1\App PC Cleaner.pdb
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner_MarkupCompile.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner_MarkupCompile.lref
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.g.resources
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.dll
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.pdb
+C:\Users\Youcode\Desktop\App PC Cleaner\App PC Cleaner\obj\Debug\netcoreapp3.1\App PC Cleaner.genruntimeconfig.cache

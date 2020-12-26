@@ -1,0 +1,19 @@
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\bin\Debug\netcoreapp3.1\App Update.exe
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\bin\Debug\netcoreapp3.1\App Update.deps.json
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\bin\Debug\netcoreapp3.1\App Update.runtimeconfig.json
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\bin\Debug\netcoreapp3.1\App Update.runtimeconfig.dev.json
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\bin\Debug\netcoreapp3.1\App Update.dll
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\bin\Debug\netcoreapp3.1\App Update.pdb
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update_MarkupCompile.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update_MarkupCompile.lref
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.g.resources
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.dll
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.pdb
+C:\Users\Youcode\Desktop\App PC Cleaner\App Update\obj\Debug\netcoreapp3.1\App Update.genruntimeconfig.cache
